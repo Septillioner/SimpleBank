@@ -1,19 +1,19 @@
 # SimpleBank
 Simple Bank Python
-# Examples
-<h2>Add Money</h2>
+## Examples
+### Add Money
 ```
 python mybank.py --add 1.0
 ```
-<h2>Sub Money</h2>
+### Sub Money
 ```
 python mybank.py --sub 1.0
 ```
-<h2>Reset Account</h2>
+### Reset Account
 ```
 python mybank.py --reset
 ```
-<h2>Show Status In Your Account</h2>
+### Show Status In Your Account
 ```
 python mybank.py --show
 ```
